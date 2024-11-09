@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue, DevOps Tools, Golang**
 
-- 💬 Ask me about **Linux, Hetzner Cloud,Apache Solr, Zabbix, MongoDB, Relational & Non-Relational database, Scrapy, Nginx, Cloudflare etc..**
+- 💬 Ask me about **Linux, Hetzner Cloud,Apache Solr, Zabbix, Relational & Non-Relational database, Scrapy, Nginx, Cloudflare etc..**
 
 - 📫 How to reach me **mecanbay@pm.me**
 
