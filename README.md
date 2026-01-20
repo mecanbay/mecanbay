@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mecanbay" alt="mecanbay" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, DevOps Tools, Golang**
+- 🌱 I’m currently learning **Nextjs, DevOps Tools, Golang**
 
 - 💬 Ask me about **Linux, Hetzner Cloud,Apache Solr, Zabbix, Relational & Non-Relational database, Scrapy, Nginx, Cloudflare etc..**
 
